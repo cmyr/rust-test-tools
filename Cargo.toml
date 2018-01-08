@@ -1,0 +1,8 @@
+[package]
+name = "test-helpers"
+version = "0.1.0"
+authors = ["Colin Rofls <colin@cmyr.net>"]
+description = "Simple tools for in-development testing and debugging."
+license = "MIT"
+
+[dependencies]
